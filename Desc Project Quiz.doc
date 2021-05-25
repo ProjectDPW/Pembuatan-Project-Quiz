@@ -1,9 +1,20 @@
 Nama Kelompok : 
 1.	Chendy Tri Wardani		(200411100041)
-2.	Irham Hamed Ayani		(200411100114)
+2.	Irham Hamed Ayani		  (200411100114)
 3.	Ovadilla Aisyah Rahma	(200411100033)
 
 DPW – Project Def
 Project Definition
 •	Objective
 Tujuan unntuk pembuatan kuis ini untuk mengedukasi bagi untuk umum baik dikalangan anak-anak maupun dewasa. Pembuatan kuis ini juga untuk sarana pembelajaran melalui game untuk mengasah otak pengetahuan umum tentang sains, matematika dan sejarah.
+•	Requierement Analysis
+Tema	: game cerdas cermat
+Judul	: Quizq
+Konsep :
+Pmbuatan kuis kali ini dengan konsep berupa game kuis. 
+  o	tampilan awal dibuat suatu opsi untuk memilih materi mana yang akan dipilih untuk memainkan sebuah kuisnya. Terdapat 3 opsi soal pada tampilan utama yaitu sains, matematika dan sejarah. ketika user memilih opsi tersebut akan masuk ke soal kuisnya.
+  o	Isi pada kuis terdapat:
+      	Countdown (waktu mundur) setiap satu materi diberi waktu 10 menit. Ketika waktunya telah habis akan muncul pada skor akhir.
+      	Soal kuis tentang pengetahuan umum sains, matematika dan sejarah. Terdapat 15 soal pilihan ganda dan 5 soal essai.
+      	Kotak jawaban pilihan ganda dan essai.
+  o	Hasil akhir, terdapat tampilan skor akhir dari kuis yang sebelumnya sudah dijawab.
